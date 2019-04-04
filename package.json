@@ -1,0 +1,20 @@
+{
+  "name": "anexpress",
+  "version": "1.0.0",
+  "description": "`async` express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavahatnuke/anexpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavahatnuke/anexpress/issues"
+  },
+  "homepage": "https://github.com/slavahatnuke/anexpress#readme"
+}
